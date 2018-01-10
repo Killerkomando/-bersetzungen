@@ -1,1 +1,1 @@
-# -bersetzungen
+# Translation
